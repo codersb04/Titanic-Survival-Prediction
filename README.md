@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-Linear-Regression
+# Titanic-Survival-Prediction
 ## Task:
 Build a machine learning model that predicts which passengers survived the Titanic shipwreck.</br>
 Comes under **Supervised Learning** as Labelled data is provided.</br>
